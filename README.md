@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Mustache/Handlebars support in Atom
 [![OS X Build Status](https://travis-ci.org/atom/language-mustache.svg?branch=master)](https://travis-ci.org/atom/language-mustache)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/mbxnxaojqp0g7ldv/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-mustache/branch/master)
